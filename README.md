@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Node.js, React.js**
 
-💬 Ask me about Web Development, Game Development...or anything else!
+💬 Ask me about Software Development, Game Development...or anything else!
 
 ⚡ Fun fact **Every 1 in 10,000 times you play Minecraft, the main menu will display a typo of the game’s title**
 
